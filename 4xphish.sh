@@ -1,5 +1,5 @@
 #!/bin/bash
-##   Zphisher 	: 	Automated Phishing Tool
+##   4xphisher 	: 	Automated Phishing Tool
 ##   Author 	: 	Dhruva Roy 
 ##   Version 	: 	2.2
 ##   Github 	: 	https://github.com/htr-tech
